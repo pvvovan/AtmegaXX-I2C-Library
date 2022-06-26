@@ -8,6 +8,7 @@
 
 
 #include <avr/io.h>
+
 #include "i2c.h"
 
 static bool masterMode;

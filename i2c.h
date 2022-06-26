@@ -10,6 +10,8 @@
 #ifndef i2c_h
 #define i2c_h
 
+#include <stdint.h>
+
 #define F_I2C 100000LL
 #define TRANSMISSION_SUCCESS -1
 #define TRANSMISSION_ERROR -2
